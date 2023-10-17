@@ -1,4 +1,5 @@
 ## Ini punya laravel yaaah mas brow
+https://laravel.com/docs/10.x/queries
 
 ## Illuminate Database
 
